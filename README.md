@@ -1,5 +1,6 @@
 # Hi there 👋
-<img src="./git.jpeg" width="100%"/>
+<img src="./profile-slideshow.gif" width="100%" alt="Profile slideshow"/>
+
 I'm a young developer learning to build things with code, one language at a time. This page tracks what I'm working on and what's coming next.
 
 ---
